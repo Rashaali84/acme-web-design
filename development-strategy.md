@@ -10,8 +10,7 @@
 | __CreateServices&aboutPages__ | As a customer I want to have pages for services and another one for about information | add two html pages services.html and about.html | update style.css if new css classes needed  |
 | __AddResponsiveEdge__ | As a customer I want to view my website from different ports like mobiles and tablets| nothing to change | update style.css to accomodate different widths of different ports  |
 |  | |  |  |
-| ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+
 
 
 ---
