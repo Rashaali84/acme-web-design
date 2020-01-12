@@ -4,7 +4,7 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| __LayoutTheBasicFoldersForTheProject__ | As a web developer I want to layout basic folders to organize files in So that I can have an organized solution for my project | Create empty html file index.html , empty folder for images (img)| create css folder has empty file style.css |
 |  | |  |  |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
