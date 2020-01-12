@@ -1,0 +1,64 @@
+body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4; /* hexidecimal for gray */
+  }
+  /* Global */
+  .container{
+    width:80%;  /* responsive so we won't use pixels only  % */
+    margin:auto;  /*things will move in the middle*/
+    overflow:hidden; /* when overflow ouside a div no scroll bar appear*/
+  }
+   /* all uls will have zero margin and padding by default */
+  ul{
+    margin:0;
+    padding:0;
+  }
+ 
+  
+  /* Header **/
+  header{
+    background:#35424a;
+    color:#ffffff; /*white text*/
+    padding-top:30px;/*from top */
+    min-height:70px;/*minium height for responive*/
+    border-bottom:#e8491d 3px solid;
+  }
+  
+  header a{
+    color:#ffffff;
+    text-decoration:none;/*remove underline whis is there by default*/
+    text-transform: uppercase;
+    font-size:16px;
+  }
+  
+  header li{
+    float:left;
+    display:inline; /*inline horizontal*/
+    padding: 0 20px 0 20px;/*top right bottom left */
+  }
+  
+  header #branding{ /* branding is id */
+    float:left;
+  }
+  
+  header #branding h1{
+    margin:0;
+  }
+  
+  header nav{
+    float:right;
+    margin-top:10px; /* move down a little */
+  }
+  
+  header .highlight, header .current a{
+    color:#e8491d;
+    font-weight:bold;
+  }
+  
+  header a:hover{
+    color:#cccccc;/*grey color*/
+    font-weight:bold;
+  }
+  
