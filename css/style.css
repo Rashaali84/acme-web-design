@@ -15,7 +15,15 @@ body{
     margin:0;
     padding:0;
   }
- 
+ /*to be used with all buttons*/
+.button_1{
+    height:38px;
+    background:#e8491d;
+    border:0;/*to remove default borders*/
+    padding-left: 20px;
+    padding-right:20px;
+    color:#ffffff;/*color white*/
+  }
   
   /* Header **/
   header{
@@ -116,4 +124,11 @@ body{
   
   #boxes .box img{
     width:90px;
+  }
+  footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#e8491d;
+    text-align: center;
   }
