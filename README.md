@@ -18,6 +18,8 @@ Add more general information about project. What the purpose of the project is? 
 ## Screenshots
 ! [screenshot of the live demo](./img/Acme Web design edited by Rasha Ali.jpg)
 
+![Drag Racing](Dragster.jpg)
+
 ## Technologies
 * HTML5 /CSS 
 
