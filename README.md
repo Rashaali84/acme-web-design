@@ -1,4 +1,4 @@
-# acme-web-design 
+# acme-web-design and incremental development
 > This project is a try to practice using git branches and incremental development in forms of using user-stories and agile principles through building a clean coded responsive mobile friendly HTML5 website for a fictional web design company. also using semantic HTML tags like header and footer as well as the basics of HTML and CSS. This is a great project for beginners in responsive design learners as well ..
 
 ## Table of contents
@@ -9,6 +9,7 @@
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
+* [Summary](#Summary)
 * [Contact](#contact)
 
 ## General info
@@ -56,6 +57,7 @@ Project is: finished as it is for learninig purpose.
 ## Contact
 Created by Rasha Ali https://rashaali84.github.io/ - feel free to contact me over GitHub!
 
+## Summary
  ## Here you are a summery of what I struggled with, what I learned, and what skills I need to practice further.
 
 | __My Learning points__ | As a web developer I learned how to downsize projects to smaller parts and attach this small parts in order and the way of building up projects in a way I can track down the smallest commits and reverse it back if needed , without rolling back the whole master thread . so more productivity with more organized plan and less mess and less efforts .when we compare that model with the waterfall classic project life cycles in which every step is built on the previous one and rolling back in those type of projects is a big problem and that is not convenient with real life projects .
