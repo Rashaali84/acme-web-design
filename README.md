@@ -35,19 +35,16 @@ Eech one of them is mapped to one or more branches as follows
 
 | User-Story Name        | Branch Name        
 | ------------- |:-------------:| 
-| CreateHtmlforIndex | add head and meta
-| CreateHtmlforIndex | add header logo and nav-bar    
-| CreateHtmlforIndex | add show case part   
-| CreateHtmlforIndex | add three boxes part  
-| CreateHtmlforIndex | add show case part   
-| CreateHtmlforIndex | add show case part   
-| CreateHtmlforIndex | add footer   
-| CreateStyleFile    | add style basic classes header&body   
-| CreateStyleFile    | add showcase&newsletter&boxes css classes  
-| CreateStyleFile    | add footer and general classes in the css file  
-| CreateServices&aboutPages | add services&about html and update css file
-| AddResponsiveEdge  | add media queries for responsive css style
-
+| CreateHtmlforIndex | add-head-meta
+| CreateHtmlforIndex | add-header-navbar-logo  
+| CreateHtmlforIndex | add-showcase   
+| CreateHtmlforIndex | add-threeboxes 
+| CreateHtmlforIndex | add-footer  
+| CreateStyleFile | add-styleclasses  
+| CreateStyleFile | add-showcase-newsletter-boxes-styles   
+| CreateStyleFile    | add-footer-General-style 
+| CreateServices&aboutPages    | add-services-about-html-css  
+| AddResponsiveEdge    | add-responsive-css 
 
 
 ## Status
