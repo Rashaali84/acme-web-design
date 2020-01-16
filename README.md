@@ -16,7 +16,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![screenshot of the live demo](./img/Acme Web design edited by Rasha Ali.jpg)
+![screenshot](./img/Acme Web design edited by Rasha Ali.jpg)
 
 ## Technologies
 * HTML5 /CSS 
