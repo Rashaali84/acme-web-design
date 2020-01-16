@@ -16,6 +16,8 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
+This is a screen-shot of the final live demo of this project.
+
 ![screenshot](./img/screenshot.jpg)
 
 
