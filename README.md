@@ -13,7 +13,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The Motivation behin this project is to get more comfortable with branching and dividing problems into smaller ones using user-stories and agile way of thinking.
 
 ## Screenshots
 This is a screen-shot of the final live demo of this project.
